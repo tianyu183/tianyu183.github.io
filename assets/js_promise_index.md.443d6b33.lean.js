@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,a as p}from"./app.ea298cc0.js";const f='{"title":"\u624B\u5199 Promise","description":"","frontmatter":{},"relativePath":"js/promise/index.md","lastUpdated":1636795990000}',t={},o=p("",6),e=[o];function c(u,l,k,i,r,m){return a(),s("div",null,e)}var w=n(t,[["render",c]]);export{f as __pageData,w as default};

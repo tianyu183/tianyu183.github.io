@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,a as t}from"./app.ea298cc0.js";const h='{"title":"CSS \u76F8\u5173","description":"","frontmatter":{},"relativePath":"css/index.md","lastUpdated":1636795990000}',e={},p=t("",4),o=[p];function c(r,i,l,_,d,u){return a(),s("div",null,o)}var x=n(e,[["render",c]]);export{h as __pageData,x as default};
